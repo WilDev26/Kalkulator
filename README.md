@@ -9,7 +9,7 @@ pkg install git -y
 ```
 ```bash
 pkg install python -y
-pkg install python2
+pkg install python2 -y
 ```
 ## install clone Repositoriku
 ```bash
