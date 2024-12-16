@@ -19,13 +19,12 @@ git clone https://github.com/WilDev26/Kalkulator
 ```bash
 cd Kalkulator
 ```
-
-## JALAN FILE PROGRAM BASH.SHELL
+## izinkan akses data
+```bash
+chmod +x *
+```
+## JALAN FILE PROGRAM python
 ```bash
 python kalkulator.py
-```
-OR
-```bash
-python2 kalkulator.py
 ```
 ## AUTHOR : WILDEV'S
